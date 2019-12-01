@@ -74,7 +74,7 @@ career-profile:
       CV is available at [**here**](https://github.com/goldkim92/online-cv/raw/master/assets/pdf/CV_JaeMyungKim.pdf)
 
 experiences:
-    - role: Leadddddd Developer
+    - role: Leaddd Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
@@ -87,7 +87,7 @@ experiences:
       company: Jae Myung Kim*, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
       details: |
         abcdefghijklmnop
-        ![](https://github.com/goldkim92/online-cv/blob/master/assets/images/AAAI2020_REST.png)
+        ![AAAI2020_REST](https://github.com/goldkim92/online-cv/blob/master/assets/images/AAAI2020_REST.png)
 
 # publications:
 #     title: Publications
