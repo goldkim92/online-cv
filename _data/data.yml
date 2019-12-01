@@ -32,14 +32,14 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Tennis
+      - item: Tennis, Golf, Borad Game
         link:
 
-      - item: Golf
-        link:
+#       - item: Golf
+#         link:
 
-      - item: Board Game
-        link:
+#       - item: Board Game
+#         link:
 
 education:
     - degree: MSc in Electrical and Computer Engineering
@@ -104,7 +104,12 @@ experiences:
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur rid
-    - role: Publications
+    - role: Performance Improvement of a Black Box Model via RL-based Spatial Transformation
+      time: AAAI, 2020
+      company: **Jae Myung Kim**, Hyungjin Kim\*, Chanwoo Park\*, and Jungwoo Lee
+      details: |
+        abcdefghijklmnop
+#         ![]()
 
 # experiences:
 #     - role: Lead Developer
