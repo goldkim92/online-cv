@@ -106,10 +106,10 @@ experiences:
         nascetur rid
     - role: Performance Improvement of a Black Box Model via RL-based Spatial Transformation
       time: AAAI, 2020
-      company: **Jae Myung Kim**, Hyungjin Kim\*, Chanwoo Park\*, and Jungwoo Lee
+      company: **Jae Myung Kim**, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
       details: |
         abcdefghijklmnop
-#         ![]()
+#         ![](https://github.com/goldkim92/online-cv/blob/master/assets/images/AAAI2020_REST.png)
 
 # experiences:
 #     - role: Lead Developer
