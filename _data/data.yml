@@ -73,6 +73,22 @@ career-profile:
       My reseach topic also focuses on applying uncertainty to other tasks such as computer vision or reinforcement learning.
       CV is available at [**here**](https://github.com/goldkim92/online-cv/raw/master/assets/pdf/CV_JaeMyungKim.pdf)
 
+experiences:
+    - role: Leaddd Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur rid
+    - role: Performance Improvement of a Black Box Model via RL-based Spatial Transformation
+      time: AAAI, 2020
+      company: Jae Myung Kim*, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
+      details: |
+        abcdefghijklmnop
+        ![](https://github.com/goldkim92/online-cv/blob/master/assets/images/AAAI2020_REST.png)
+
 # publications:
 #     title: Publications
 #     intro: |
@@ -94,22 +110,6 @@ career-profile:
 #         link: "#"
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
-
-experiences:
-    - role: Leaddd Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur rid
-    - role: Performance Improvement of a Black Box Model via RL-based Spatial Transformation
-      time: AAAI, 2020
-      company: Jae Myung Kim*, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
-      details: |
-        abcdefghijklmnop
-#         ![](https://github.com/goldkim92/online-cv/blob/master/assets/images/AAAI2020_REST.png)
 
 # experiences:
 #     - role: Lead Developer
