@@ -74,17 +74,15 @@ career-profile:
       CV is available at [**here**](https://github.com/goldkim92/online-cv/raw/master/assets/pdf/CV_JaeMyungKim.pdf)
 
 experiences:
-    - role: Leaddd Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: DropoutCAM: Dropout Uncertainty for Weakly Supervised Object Localization
+      time: Submitted
+      company: <strong>Jae Myung Kim</strong>, Yeongwook Kim, Sungyeob Han, and Jungwoo Lee
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur rid
+        zyxwvutsrqponml
+      image:
     - role: Performance Improvement of a Black Box Model via RL-based Spatial Transformation
       time: AAAI, 2020
-      company: Jae Myung Kim*, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
+      company: <strong>Jae Myung Kim*</strong>, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
       details: |
         abcdefghijklmnop
       image: AAAI2020_REST.png
