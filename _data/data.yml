@@ -66,7 +66,7 @@ education:
 #           - Bullet point
 
 career-profile:
-    title: About Me
+    ti: About Me
     summary: |
       I am currently on the progress of Master's degree at [**Seoul National University**](https://www.useoul.edu/), supervised under [**Prof. Jungwoo Lee**](http://cml.snu.ac.kr/?page_id=5948).
       My area of research is statistical machine learning and inference, with a focus on estimating uncertainty.
