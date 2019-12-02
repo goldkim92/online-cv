@@ -89,7 +89,7 @@ experiences:
       image: neuroimage2020_QSMnetplus.png
       
     - role: REST<span>:</span> Performance Improvement of a Black Box Model via RL-based Spatial Transformation
-      time: AAAI, 2020
+      time: In Proceedings of 34th AAAI Conference on Artificial Intelligence, 2020
       company: <strong>Jae Myung Kim*</strong>, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
       details: |
          We study the robustness to the geometric transformations in a specific condition where the black-box image classifier is given. We propose an additional learner, REST, that transforms the warped input data into samples regarded as in-distribution by the black-box models. Our work aims to improve the robustness by adding a REST module in front of any black boxes and training only the REST module without retraining the original black box model in an end-to-end manner.
