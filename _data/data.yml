@@ -74,7 +74,7 @@ career-profile:
       CV is available at [**here**](https://github.com/goldkim92/online-cv/raw/master/assets/pdf/CV_JaeMyungKim.pdf)
 
 experiences:
-    - role: Dropout Uncertainty for Weakly Supervised Object Localization
+    - role: DropoutCAM<span>:</span> Dropout Uncertainty for Weakly Supervised Object Localization
       time: Submitted
       company: <strong>Jae Myung Kim</strong>, Yeongwook Kim, Sungyeob Han, and Jungwoo Lee
       details: |
