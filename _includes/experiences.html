@@ -6,7 +6,7 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    Publications / Preprints
+    Publications / Preprintssss
   </h2>
 
   {% for experience in experiences %}
@@ -27,7 +27,7 @@
     <div class="details">
       {{ experience.details | markdownify }}
       {% if experience.image %}
-        <img src="{{ site.baseurl }}/assets/images/{{ experience.image }}" alt="{{ site.baseurl }}">
+        <img src="{{ site.baseurl }}/assets/images/{{ experience.image }}" alt="{{ site.baseurl }}" style="height: 100%; width: 100%; object-fit: contain" />
         
       {% endif %}
     </div><!--//details-->
