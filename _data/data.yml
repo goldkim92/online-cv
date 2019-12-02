@@ -87,7 +87,7 @@ experiences:
       company: Jae Myung Kim*, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
       details: |
         abcdefghijklmnop
-        ![AAAI2020_REST](https://github.com/goldkim92/online-cv/blob/master/assets/images/AAAI2020_REST.png)
+      image: https://github.com/goldkim92/online-cv/blob/master/assets/images/AAAI2020_REST.png
 
 publications:
     title: Publications
