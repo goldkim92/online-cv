@@ -81,25 +81,26 @@ experiences:
         zyxwvutsrqponml
       image: CVPR2020_DropoutCAM.png
       
-    - role: Performance Improvement of a Black Box Model via RL-based Spatial Transformation
-      time: AAAI, 2020
-      company: <strong>Jae Myung Kim*</strong>, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
-      details: |
-        abcdefghijklmnop
-      image: AAAI2020_REST.png
-      
-    - role: Exploring linearity of deep neural network trained QSM
+    - role: Exploring linearity of deep neural network trained QSM<span>:</span> QSMnet+
       time: Submitted
       company: Woojin Jung, Jaeyeon Yoon, Sooyeon Ji, Joon Yul Choi, <strong>Jae Myung Kim</strong>, Yoonho Nam, Eung Yeop Kim, and Jongho Lee
       details: |
         abcdefghijklmnop
       image: neuroimage2020_QSMnetplus.png
       
+    - role: REST<span>:</span> Performance Improvement of a Black Box Model via RL-based Spatial Transformation
+      time: AAAI, 2020
+      company: <strong>Jae Myung Kim*</strong>, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
+      details: |
+        abcdefghijklmnop
+      image: AAAI2020_REST.png
+      
     - role: Sampling-based Bayesian Inference with Gradient Uncertainty
-      time: NIPS Workshop <br> on bayesian deep learning, 2018
+      time: NIPS Workshop on Bayesian deep learning, 2018
       company: Chanwoo Park, <strong>Jae Myung Kim</strong>, Seok Hyeon Ha, and Jungwoo Lee
       details: |
         abcdefghijklmnop
+      image: preprint2020_SEUE.png
 
 # publications:
 #     title: Publications
