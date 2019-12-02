@@ -27,7 +27,8 @@
     <div class="details">
       {{ experience.details | markdownify }}
       {% if experience.image %}
-        {{ experience.image }}
+        <img src={{ experience.image }} alt="Image">
+        
       {% endif %}
     </div><!--//details-->
     {% endif %}
