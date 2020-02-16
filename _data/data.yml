@@ -81,19 +81,19 @@ experiences:
         We propose a new Class Activation Map (CAM) method which achieves state-of-the-art in a weakly supervised object localization problem. The proposed method utilizes uncertainty obtained from dropout layers. Our method can be applied in a pre-trained classification network without additional training if it contains dropout in fully connected layers.
       image: CVPR2020_DropoutCAM.png
       
-    - role: Exploring linearity of deep neural network trained QSM<span>:</span> QSMnet+
-      time: NeuroImage, 2020
-      company: Woojin Jung, Jaeyeon Yoon, Sooyeon Ji, Joon Yul Choi, <strong>Jae Myung Kim</strong>, Yoonho Nam, Eung Yeop Kim, and Jongho Lee
-      details: |
-        Quantitative susceptibility mapping (QSM) is a quantitative approach for measuring magnetic susceptibility using MRI. Recently, deep neural network-powered QSM, QSMnet, successfully performed ill-conditioned dipole inversion in QSM and generated high-quality susceptibility maps. However, QSMnet underestimates susceptibility in hemorrhagic lesions. We overcome this limitation by data augmentation method to generalize the network for a wider range of susceptibility.
-      image: neuroimage2020_QSMnetplus.png
-      
     - role: REST<span>:</span> Performance Improvement of a Black Box Model via RL-based Spatial Transformation
       time: In Proceedings of 34th AAAI Conference on Artificial Intelligence, 2020
       company: <strong>Jae Myung Kim*</strong>, Hyungjin Kim*, Chanwoo Park*, and Jungwoo Lee
       details: |
          We study the robustness to the geometric transformations in a specific condition where the black-box image classifier is given. We propose an additional learner, REST, that transforms the warped input data into samples regarded as in-distribution by the black-box models. Our work aims to improve the robustness by adding a REST module in front of any black boxes and training only the REST module without retraining the original black box model in an end-to-end manner.
       image: AAAI2020_REST.png
+      
+    - role: Exploring linearity of deep neural network trained QSM<span>:</span> QSMnet+
+      time: NeuroImage, 2020
+      company: Woojin Jung, Jaeyeon Yoon, Sooyeon Ji, Joon Yul Choi, <strong>Jae Myung Kim</strong>, Yoonho Nam, Eung Yeop Kim, and Jongho Lee
+      details: |
+        Quantitative susceptibility mapping (QSM) is a quantitative approach for measuring magnetic susceptibility using MRI. Recently, deep neural network-powered QSM, QSMnet, successfully performed ill-conditioned dipole inversion in QSM and generated high-quality susceptibility maps. However, QSMnet underestimates susceptibility in hemorrhagic lesions. We overcome this limitation by data augmentation method to generalize the network for a wider range of susceptibility.
+      image: neuroimage2020_QSMnetplus.png
       
     - role: Sampling-based Bayesian Inference with Gradient Uncertainty
       time: NIPS Workshop on Bayesian deep learning, 2018
