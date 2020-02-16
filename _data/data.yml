@@ -82,7 +82,7 @@ experiences:
       image: CVPR2020_DropoutCAM.png
       
     - role: Exploring linearity of deep neural network trained QSM<span>:</span> QSMnet+
-      time: Submitted
+      time: NeuroImage, 2020
       company: Woojin Jung, Jaeyeon Yoon, Sooyeon Ji, Joon Yul Choi, <strong>Jae Myung Kim</strong>, Yoonho Nam, Eung Yeop Kim, and Jongho Lee
       details: |
         Quantitative susceptibility mapping (QSM) is a quantitative approach for measuring magnetic susceptibility using MRI. Recently, deep neural network-powered QSM, QSMnet, successfully performed ill-conditioned dipole inversion in QSM and generated high-quality susceptibility maps. However, QSMnet underestimates susceptibility in hemorrhagic lesions. We overcome this limitation by data augmentation method to generalize the network for a wider range of susceptibility.
